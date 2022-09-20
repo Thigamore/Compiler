@@ -1,0 +1,4 @@
+def(cool:int){ // fdsiafjdasklfjlsajflkjkl
+    print("wow")
+    return 10
+}

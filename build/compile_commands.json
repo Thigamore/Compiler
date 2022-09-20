@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/thomas/code/cpp/LLVM/Learning/build",
+  "command": "/usr/bin/g++ -I/home/thomas/code/cpp/LLVM/Learning -g -o CMakeFiles/Learning.dir/main.cpp.o -c /home/thomas/code/cpp/LLVM/Learning/main.cpp",
+  "file": "/home/thomas/code/cpp/LLVM/Learning/main.cpp"
+},
+{
+  "directory": "/home/thomas/code/cpp/LLVM/Learning/build",
+  "command": "/usr/bin/g++ -I/home/thomas/code/cpp/LLVM/Learning -g -o fileIO/CMakeFiles/fileIO.dir/fileIO.cpp.o -c /home/thomas/code/cpp/LLVM/Learning/fileIO/fileIO.cpp",
+  "file": "/home/thomas/code/cpp/LLVM/Learning/fileIO/fileIO.cpp"
+},
+{
+  "directory": "/home/thomas/code/cpp/LLVM/Learning/build",
+  "command": "/usr/bin/g++ -I/home/thomas/code/cpp/LLVM/Learning -g -o lexer/CMakeFiles/lexer.dir/lexer.cpp.o -c /home/thomas/code/cpp/LLVM/Learning/lexer/lexer.cpp",
+  "file": "/home/thomas/code/cpp/LLVM/Learning/lexer/lexer.cpp"
+},
+{
+  "directory": "/home/thomas/code/cpp/LLVM/Learning/build",
+  "command": "/usr/bin/g++ -I/home/thomas/code/cpp/LLVM/Learning -g -o lexer/CMakeFiles/lexer.dir/token.cpp.o -c /home/thomas/code/cpp/LLVM/Learning/lexer/token.cpp",
+  "file": "/home/thomas/code/cpp/LLVM/Learning/lexer/token.cpp"
+},
+{
+  "directory": "/home/thomas/code/cpp/LLVM/Learning/build",
+  "command": "/usr/bin/g++ -I/home/thomas/code/cpp/LLVM/Learning -g -o parser/CMakeFiles/parser.dir/parser.cpp.o -c /home/thomas/code/cpp/LLVM/Learning/parser/parser.cpp",
+  "file": "/home/thomas/code/cpp/LLVM/Learning/parser/parser.cpp"
+}
+]

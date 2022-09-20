@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Learning.dir/main.cpp.o -o Learning  fileIO/libfileIO.a lexer/liblexer.a 
